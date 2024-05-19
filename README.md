@@ -16,4 +16,4 @@ This React Native application dynamically renders a form based on XML data. The 
 ## Project Structure
 
 - **FormScreen.js**: The main screen component that handles XML input, parses the XML, and manages the overall form logic.
-- **styles.js**: Contains shared styles used across components.
+- **HomeScreen.js**: Contain Two buttons to render predefined or user defined xml.
